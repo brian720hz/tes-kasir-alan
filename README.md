@@ -1,3 +1,3 @@
 ## Tes Soal Kasir
 
-#Nama : Muhammad Fikri Sabriansyah
+Nama : Muhammad Fikri Sabriansyah
