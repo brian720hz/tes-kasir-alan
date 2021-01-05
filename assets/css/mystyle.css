@@ -1,0 +1,35 @@
+.nav-pills>.active>a,
+.nav-pills>.active>a:hover,
+.nav-pills>li>a:hover {
+    color: #17aaff !important;
+    background-color: transparent !important;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 0px;
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
+    border-bottom-color: #17aaff;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    color: #17aaff !important;
+    background-color: transparent !important;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 0px;
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
+    border-bottom-color: #17aaff;
+}
+
+.row_menu{
+    margin-top: 2%; 
+    margin-left: 3%; 
+    margin-right: 3%;
+}
+
+.card_menu{
+    margin-left: 5%; 
+    margin-bottom: 8%;
+}
